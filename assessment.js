@@ -63,8 +63,7 @@ const hrefValue = "https://twitter.com/intent/tweet?button_hashtag=あなたの�
                 '{userName}のいいところは好奇心です。新しいことに向かっていく{userName}の心構えが多くの人に魅力的に映ります。',
                 '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っていきます。',
                 '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
-                '{userName}のいいところは自制心です。まずいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています
-。'
+                '{userName}のいいところは自制心です。まずいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
         ];
 
         function assessment(userName){
